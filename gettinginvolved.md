@@ -98,7 +98,7 @@ James Fogarty
 Student Coordinators
 </div>
 <div class="col-md-8" markdown="block">
-Christine Geeng, Annie Ross
+Christine Geeng, Sam Kolovson
 </div>
 </div>
 
@@ -128,7 +128,7 @@ Leah Findlater
 Student Coordinators
 </div>
 <div class="col-md-8" markdown="block">
-Sam Kolovson, Kai Lukoff, Benji Xie, Mingrui Zhang
+Mingrui Zhang, Spencer Williams, Lotus Zhang, Alex Okeson, Neilly Tan, Joan Williams
 <!-- Eunice Jun, Kai Lukoff, Sayena Majlesein, Sonali Mishra, John Robinson, Benji Xie -->
 </div>
 </div>
@@ -137,7 +137,7 @@ Sam Kolovson, Kai Lukoff, Benji Xie, Mingrui Zhang
 Diversity & Outreach Coordinator
 </div>
 <div class="col-md-8" markdown="block">
-Eunice Jun
+Calvin Liang
 </div>
 </div>
 <div class="row">
@@ -145,7 +145,7 @@ Eunice Jun
 Videos and Vimeo
 </div>
 <div class="col-md-8" markdown="block">
-Augustus Arthur
+Danielle Tuchman
 </div>
 </div>
 
@@ -167,18 +167,18 @@ dub-retreat [at] uw [dot] edu
 </div>
 <div class="row">
 <div class="col-md-4" markdown="block">
-2019 Coordinators
+2020 Coordinators
 </div>
 <div class="col-md-8" markdown="block">
-Jon Froehlich, Benjamin Mako Hill, Emily Lloyd
+Benjamin Mako Hill, Nadya Peek
 </div>
 </div>
 <div class="row">
 <div class="col-md-4" markdown="block">
-2019 Student Coordinators
+2020 Student Coordinators
 </div>
 <div class="col-md-8" markdown="block">
-Tal August, Qisheng Li, Calvin Liang, Kathryn Shroyer
+Anastasia Schaadhardt, Jason Hoffman, Jesse Martinez, Raymond Fok
 </div>
 <!--
 <div class="col-md-4" markdown="block">
@@ -205,10 +205,10 @@ Christine Geeng, Wendy Roldan, Manaswi Saha, Benji Xie
 </div>
 <div class="row">
 <div class="col-md-4" markdown="block">
-2019 Student Coordinators
+2020 Student Coordinators
 </div>
 <div class="col-md-8" markdown="block">
-Susanne Kirchner-Adelhardt, Ravi Karkar, Annie Ross, Benjamin Xie
+Kenya Mejia,  Miranda Wei
 </div>
 </div>
 <!--
